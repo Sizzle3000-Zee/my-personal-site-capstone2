@@ -1,0 +1,19 @@
+body{ background-color:#CCC9E5 ;}
+.about{background-color: #4230E6;}
+.profile{border-radius: 50%; width: 280px; height: 285px;}
+.project-img{padding: 10px; height: 160px; width: 280px; border-radius: 20px;} 
+.container{background-color: #CCC9E5;}
+
+.shadow-sm {
+    box-shadow: 0 0 10px 1px #4230E6 !important;
+}
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: #CCC9E5 !important;
+}
+.nav-link{color: black;}
+
+.card {background: transparent;}
+
+header{background-color: #7C93E6;
+}
